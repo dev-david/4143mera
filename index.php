@@ -188,12 +188,12 @@
 									<article class="item">
 										<a href="images/comp1.jpg" class="image full fancybox"><img src="images/comp1.jpg" alt="" /></a>
 										<header>
-										<h3><strong>1801 E 24th St - Short Sale</strong></h3>
+										<h3><strong>4101 Carrington St</strong></h3>
 										<ul>
-											<li>2 Bed - 1 Bath</li>
-											<li>1,265 Sq Ft -  5,880 Lot</li>
-											<li>List: 6/12/13 - Sold: 9/13/13</li>
-											<li>List: $318,000 - SOLD $340,000</li>
+											<li>3 Bed - 1.5 Bath</li>
+											<li>1,415 Sq Ft -  5,880 Lot</li>
+											<li>List: 7/5/13 - Sold: 7/19/13</li>
+											<li>List: $399,000 - SOLD $450,000</li>
 										</ul>
 									</article>
 								</div>
@@ -201,12 +201,12 @@
 									<article class="item">
 										<a href="images/comp2.jpg" class="image full fancybox"><img src="images/comp2.jpg" alt="" /></a>
 										<header>
-										<h3><strong>2200 E 25th St</strong></h3>
+										<h3><strong>4257 Suter St</strong></h3>
 										<ul>
-											<li>2 Bed - 1 Bath</li>
-											<li>1,138 Sq Ft - 4,270 Lot</li>
-											<li>List: 9/6/13 - Sold: 10/2/13</li>
-											<li>List: $210,000 - SOLD $218,888</li>
+											<li>3 Bed - 2 Bath</li>
+											<li>1,240 Sq Ft - 3,430 Lot</li>
+											<li>List: 8/3/13 - Sold: 9/16/13</li>
+											<li>List: $389,900 - SOLD $430,000</li>
 										</ul>
 									</article>
 								</div>
@@ -214,18 +214,18 @@
 									<article class="item">
 										<a href="images/comp3.jpg" class="image full fancybox"><img src="images/comp3.jpg" alt="" /></a>
 										<header>
-										<h3><strong>2636 22nd Ave</strong></h3>
+										<h3><strong>3808 Marion Ave</strong></h3>
 										<ul>
-											<li>2 Bed - 1 Bath</li>
-											<li>984 Sq Ft - 3,180 Lot</li>
-											<li>List: 10/1/13 - Sold: 11/6/13</li>
-											<li>List: $239,000 - SOLD $226,000</li>
+											<li>3 Bed - 1.5 Bath</li>
+											<li>1,210 Sq Ft - 2,550 Lot</li>
+											<li>List: 5/17/13 - Sold: 7/26/13</li>
+											<li>List: $359,000 - SOLD $400,000</li>
 										</ul>
 									</article>
 								</div>
 							</div>
 							<br />
-							<a href="http://maxebrdi.paragonrels.com/publink/default.aspx?GUID=fe4051f4-3bc5-4f0a-94fc-9c590bbe8a8f&Report=Yes" class="image full"><img style="width: 100%;" src="images/compdata.jpg" /></a>
+							<a href="http://maxebrdi.paragonrels.com/publink/default.aspx?GUID=142fa192-82b6-49a2-bc60-d44c973fe34d&Report=Yes" class="image full"><img style="width: 100%;" src="images/compdata.jpg" /></a>
 						</div>
 					</section>
 			
