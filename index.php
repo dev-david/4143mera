@@ -92,6 +92,17 @@
 
 						</div>
 					</section>
+
+					<!-- Beta Website -->
+					<section id="beta" class="five">
+						<div class="container">
+
+							<h3>Sample Website For Previous Clients</h3>
+							<a href="images/betahome.png" class="image full fancybox"><img src="images/betahome.png" alt="" /></a>
+
+
+						</div>
+					</section>
 					
 				<!-- Portfolio -->
 					<section id="portfolio" class="two">
