@@ -1154,3 +1154,10 @@ img:hover {
 			background-color: #fff;
 			color: #000;
 		}
+
+		#main > section.five
+		{
+			/*background-color: #e8edec;*/
+			background-color: #ecf0f1;
+			color: #000;
+		}

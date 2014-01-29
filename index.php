@@ -97,8 +97,9 @@
 					<section id="beta" class="five">
 						<div class="container">
 
-							<h3>Sample Website For Previous Clients</h3>
-							<a href="images/betahome.png" class="image full fancybox"><img src="images/betahome.png" alt="" /></a>
+							<h3 class="blackblock">Sample Website</h3>
+							<h4>Previous Works</h4><br>
+							<a href="http://2427state.com" class="image full" target="_blank"><img src="images/betahome.png" alt="" /></a>
 
 
 						</div>
