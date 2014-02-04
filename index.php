@@ -38,7 +38,7 @@
 
 					<!-- Logo -->
 						<div id="logo">
-							<span class="image avatar48"><img src="images/teamfastagenticon.png" alt="" /></span>
+							<span class="image avatar48" style="background: none !important;"><img src="images/mjfast.png" alt="" /></span>
 							<h1 id="title">Team Fast Agents</h1>
 							<span class="byline">YOUR personal team of professionals</span>
 						</div>
